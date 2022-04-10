@@ -28,7 +28,7 @@ Vislov Ivan, Saint-Petersburg
 <img width="1552" alt="5" src="https://user-images.githubusercontent.com/74829720/162598325-604c0c31-5d01-40b9-af35-01af8138d25d.png">
 <img width="1552" alt="6" src="https://user-images.githubusercontent.com/74829720/162598363-282349ea-76a9-4ee7-96e9-5378ba07fd19.png">
 - https://github.com/SDWebImage/SDWebImageSwiftUI (для работы с изображениями из сети)
-- Pods: 
+* Pods: 
 pod 'Firebase/Auth'
 pod 'Firebase/Firestore'
 pod 'FirebaseFirestoreSwift'
