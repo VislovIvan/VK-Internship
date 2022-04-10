@@ -36,5 +36,4 @@ pod 'FirebaseFirestoreSwift'
 pod 'Firebase/Storage'
 <img width="794" alt="2" src="https://user-images.githubusercontent.com/74829720/162598377-c1ca8b20-4c87-4245-9651-96ae59afd944.png">
 
-
-
+- Скачал и собрал проект с нуля. Библиотеки рабочие, проект запустился. 
