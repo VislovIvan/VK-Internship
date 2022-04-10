@@ -1,1 +1,2 @@
-# VK-Internship
+# VK Internship
+Vislov Ivan, Saint-Petersburg
