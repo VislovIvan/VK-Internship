@@ -1,4 +1,4 @@
-# VK Internship 2022
+# VK Internship 2022 photos
 Vislov Ivan, Saint-Petersburg
 
 Задание выполнил на SwiftUI
