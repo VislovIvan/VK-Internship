@@ -18,7 +18,7 @@ Vislov Ivan, Saint-Petersburg
 
 Дополнительно + сборка проекта с нуля: 
 * Для выполнения задания я использовал Firebase Authentication, знаю, что в задании, написано про локальная БД. Приложение полностью на SwiftUI, использовал Firebase для ускорения работы, так как ответ на вопрос по поводу БД от поддержки получил поздно. И не успел реализовать сохранение данных локально. 
-* Область видимости хотел реализовать через Vision Kit от Apple, не немного не успел его адаптировать для SwiftUI.
+* Область видимости хотел реализовать через Vision Kit от Apple, но немного не успел его адаптировать для SwiftUI.
 Сборка с нуля: 
 Две библиотеки для Firebase и файл GoogleService-Info для связи с Firebase
 - https://github.com/firebase/firebase-ios-sdk (3 package pruduct: FirebaseAuth, FirebaseStorage и FirebaseFirestore.
